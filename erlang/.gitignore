@@ -1,0 +1,4 @@
+*.py[co]
+otp_doc_html_*.tar.gz
+erlang.docset/icon.png
+erlang.docset/Contents/Resources/*
